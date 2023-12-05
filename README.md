@@ -1,2 +1,2 @@
-# C_school
-# My first C class Code
+# python_school
+# My first python class Code
